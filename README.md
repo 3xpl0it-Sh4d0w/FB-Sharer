@@ -2,7 +2,7 @@
 🇬🇧 _Bash script allowing to share any link on Facebook._<br>
 🇫🇷 _Script Bash permettant de partager n'importe quel lien sur Facebook._
 # ScreenShot :
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.png "Screenshot")
 # Installation :
 Open your Terminal and copy this Command :
 ```bash
