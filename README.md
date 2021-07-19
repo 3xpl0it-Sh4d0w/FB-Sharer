@@ -4,6 +4,6 @@
 # Installation :
 Open your Terminal and copy this Command :
 ```bash
-git clone https://github.com/3xpl0it-Sh4d0w/FB-Sharer.git && cd FB-Sharer && chmod +x Fb-Sharer.sh
+git clone https://github.com/3xpl0it-Sh4d0w/FB-Sharer.git && cd FB-Sharer && chmod +x FB-Sharer.sh
 ```
 To execute the Script do : ```./Fb-Sharer.sh``` Or ```bash Fb-Sharer.sh``` Enjoy ! 🙂.
