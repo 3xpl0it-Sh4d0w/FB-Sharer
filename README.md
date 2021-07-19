@@ -1,5 +1,5 @@
 # FB-Sharer
-🇫🇷 Script Bash permettant de partager n'importe quel lien sur Facebook.
+🇫🇷 Script Bash permettant de partager n'importe quel lien sur Facebook.<br>
 🇬🇧 Bash script allowing to share any link on Facebook.
 # Installation :
 ```bash
