@@ -3,6 +3,8 @@
 🇫🇷 _Script Bash permettant de partager n'importe quel lien sur Facebook._
 # ScreenShot :
 [![Screenshot](screenshot.png)](https://github.com/3xpl0it-Sh4d0w/FB-Sharer)
+# Requierements :
+`GIT` & `BASH` and `Web Browser (Firefox, Chrome)`.
 # Installation :
 Open your Terminal and copy this Command :
 ```bash
