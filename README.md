@@ -4,10 +4,10 @@
 # ScreenShot :
 [![Screenshot](screenshot.png)](https://github.com/3xpl0it-Sh4d0w/FB-Sharer)
 # Requierements :
-`GIT` & `BASH` and `Web Browser (Firefox, Chrome)`.
+↪️ `GIT` & `BASH` and `Web Browser (Firefox, Chrome)`.
 # Installation :
 Open your Terminal and copy this Command :
 ```bash
 git clone https://github.com/3xpl0it-Sh4d0w/FB-Sharer.git && cd FB-Sharer && chmod +x FB-Sharer.sh
 ```
-To execute the Script do : ``./Fb-Sharer.sh`` Or ``bash Fb-Sharer.sh`` Enjoy ! 🙂.
+↪️ To execute the Script do : ``./Fb-Sharer.sh`` Or ``bash Fb-Sharer.sh`` Enjoy ! 🙂.
