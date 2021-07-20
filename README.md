@@ -1,8 +1,6 @@
-# FB-Sharer :
-🇬🇧 _Bash script allowing to share any link on Facebook._<br>
-🇫🇷 _Script Bash permettant de partager n'importe quel lien sur Facebook._
-# ScreenShot :
-[![Screenshot](screenshot.png)](https://github.com/3xpl0it-Sh4d0w/FB-Sharer)
+![Fb-Sharer](Fb-Sharer.png)<br>
+🇬🇧 Bash script allowing to share any link on Facebook.<br>
+🇫🇷 Script Bash permettant de partager n'importe quel lien sur Facebook.
 # Requierements :
 `GIT` & `BASH` and `Web Browser (Firefox, Chrome)`.
 # Installation :
