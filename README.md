@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="Fb-Sharer.png">
-</p><br>
+  <img src="Fb-Sharer.png"><br>
+</p>
+<p align="left">
+    <img src="https://img.shields.io/badge/License-GPLv3-blue.svg">
+</p>
 
 🇬🇧 Bash script allowing to share any link on Facebook.<br>
 🇫🇷 Script Bash permettant de partager n'importe quel lien sur Facebook.
