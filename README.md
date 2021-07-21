@@ -9,5 +9,5 @@
 ```bash
 git clone https://github.com/3xpl0it-Sh4d0w/FB-Sharer.git && cd FB-Sharer && chmod +x FB-Sharer.sh
 ```
-↪️ To execute the Script do : `./Fb-Sharer.sh` or `bash Fb-Sharer.sh` Enjoy ! 🙂.
+↪️ To execute the Script do : `./Fb-Sharer.sh` or `bash Fb-Sharer.sh` Enjoy ! 🙂.<br>
 🇫🇷 Pour executer le Script faites : `./Fb-Sharer.sh` où `bash Fb-Sharer.sh` Bonne utilisation ! 🙂.
