@@ -4,7 +4,7 @@
 # Requierements :
 `GIT` & `BASH`.
 # Installation :
-🇬🇧 Open your Terminal and copy this Command :
+🇬🇧 Open your Terminal and copy this Command :<br>
 🇫🇷 Ouvrez votre Terminal et copiez cette Commande :
 ```bash
 git clone https://github.com/3xpl0it-Sh4d0w/FB-Sharer.git && cd FB-Sharer && chmod +x FB-Sharer.sh
