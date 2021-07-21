@@ -2,7 +2,7 @@
 🇬🇧 Bash script allowing to share any link on Facebook.<br>
 🇫🇷 Script Bash permettant de partager n'importe quel lien sur Facebook.
 # Requierements :
-`GIT` & `BASH` and `Web Browser (Firefox, Chrome)`.
+`GIT` & `BASH`.
 # Installation :
 Open your Terminal and copy this Command :
 ```bash
