@@ -3,7 +3,7 @@
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/License-GPLv3-blue.svg">
-  <img src="https://img.shields.io/badge/Langage-Shell%20Bash-blue?logo=gnubash">
+  <img src="https://img.shields.io/badge/Language-Shell%20Bash-blue?logo=gnubash">
 </p>
 
 🇬🇧 Bash script allowing to share any link on Facebook.<br>
