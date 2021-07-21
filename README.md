@@ -1,4 +1,4 @@
-![Fb-Sharer](Fb-Sharer.png)<br>
+<center>![Fb-Sharer](Fb-Sharer.png)</center><br>
 🇬🇧 Bash script allowing to share any link on Facebook.<br>
 🇫🇷 Script Bash permettant de partager n'importe quel lien sur Facebook.
 # Requierements :
