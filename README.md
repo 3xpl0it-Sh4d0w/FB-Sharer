@@ -2,7 +2,7 @@
   <img src="Fb-Sharer.png"><br>
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/License-GPLv3-blue.svg">
+  <img src="https://img.shields.io/badge/Licence-GPL%20V3-blue">
   <img src="https://img.shields.io/badge/Language-Shell%20Bash-blue?logo=gnubash">
 </p>
 
