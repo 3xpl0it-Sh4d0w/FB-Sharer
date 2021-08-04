@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /usr/bin/env bash
 
 Configuration()
 {
@@ -19,16 +19,12 @@ Configuration()
 Configuration
 
 
-Main_App()
+FB_SHARER()
 {
-    FG_Gen_Sharer_Link()
-    {
-        FB_SHARER="https://facebook.com/sharer/sharer.php?u="
+    FB_URL="https://facebook.com/sharer/sharer.php?u="
                 
-        read -p "$(printf "\E[1;30m[ \E[1;32mLien à Partager sur Facebook \E[1;30m] : \E[1;0m")" CUSTOM_LINK
+    read -p "$(printf "\E[1;30m[ \E[1;32mLien à Partager sur Facebook \E[1;30m] : \E[1;0m")" URL
 
-        xdg-open ${FB_SHARER}${CUSTOM_LINK}
-    }
-    FG_Gen_Sharer_Link
+    xdg-open ${FB_URL}${URL}
 }
-Main_App
+FB_SHARER
